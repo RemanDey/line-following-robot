@@ -11,6 +11,7 @@
 #define lm2 10
 #define rm1 5
 #define rm2 6
+float basespeed=150;
 float lasterror=0;
 float P;
 float I=0;
