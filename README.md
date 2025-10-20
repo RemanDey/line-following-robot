@@ -39,7 +39,7 @@ Output = (Kp × Error) + (Ki × ∑Error) + (Kd × ΔError)
 Tuning these constants is key to smooth line following.
 
 ---
-## 🔌 Circuit Diagram
+## Circuit Diagram
 
 ![Circuit Diagram](CircuitDiagram.png)
 ---
