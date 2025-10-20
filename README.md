@@ -11,7 +11,7 @@ The robot uses a **5-sensor IR array** to detect the line’s position and compu
 
 | Component | Quantity | Description |
 |------------|-----------|-------------|
-| Arduino Uno / Nano | 1 | Main controller board |
+| Arduino Uno | 1 | Main controller board |
 | IR Sensors | 5 | Digital IR sensor module |
 | DC Motors | 2 | For left and right wheels |
 | Chassis | 1 | Robot body frame |
