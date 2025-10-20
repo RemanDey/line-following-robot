@@ -111,6 +111,14 @@ This project is open-source and free for educational and personal use.
 
 ## Author
 
-Developed by **Reman Dey**  
+**Reman Dey**  
+An engineering student exploring embedded systems, robotics, and AI.  
+This project was developed as a hands-on way to understand **PID control** and real-world feedback systems.  
+
+> “Learning by building — that’s how control theory becomes intuition.”  
+
+🌐 [GitHub](https://github.com/RemanDey) • [LinkedIn](https://linkedin.com/in/remandey) • [Website](https://remandey.github.io/my-portfolio/)  
+📫 Reach me at: <reman.airport@gmail.com>
+
 
 ---
