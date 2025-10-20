@@ -1,4 +1,7 @@
-
+/*
+  Developer: Reman Dey
+  Project: Line Following Robot using PID
+*/
 #define l2 A0
 #define l1 A1
 #define c A2
@@ -38,7 +41,6 @@ void loop()
   float pos;
   if(q!=0){pos=p/q;}
   else {pos=2*m;}
-  
   float error=2*m-pos;
   P=error;
   I+=error;
@@ -52,6 +54,5 @@ void loop()
   analogWrite(lm1,leftmotor);
   analogWrite(lm2,0);
   analogWrite(rm1,rightmotor);
-  analogWrite(rm2,0);
-  
+  analogWrite(rm2,0);  
 }
