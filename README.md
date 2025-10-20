@@ -71,8 +71,8 @@ Calculates error = (desired_center - current_position)
 Then applies Kp, Ki, Kd corrections.  
 - **Motor Control:**  
 Adjusts motor PWM speeds:
-left_motor = base_speed - pid_output
-right_motor = base_speed + pid_output
+leftmotor = basespeed - pid_output
+rightmotor = basespeed + pid_output
 
 ---
 
