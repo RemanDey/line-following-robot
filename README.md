@@ -98,8 +98,8 @@ rightmotor = basespeed + pid_output
 ---
 ## Example
 
-- Path1: A basic path testing the device for turns<=90 degrees. Path [image](https://github.com/RemanDey/line-following-robot/blob/main/path1.png) and the motion of the device (simulated in webots) is [there](https://github.com/RemanDey/line-following-robot/blob/main/video_path1.mp4) in the repo.
-- Path2: A circular path. Path [images](https://github.com/RemanDey/line-following-robot/blob/main/path2.png) and the motion of the device (simulated in webots) is [there](https://github.com/RemanDey/line-following-robot/blob/main/video_path2.mp4) in the repo.
+- **Path1**: A basic path testing the device for turns<=90 degrees. Path [image](https://github.com/RemanDey/line-following-robot/blob/main/path1.png) and the motion of the device (simulated in webots) is [there](https://github.com/RemanDey/line-following-robot/blob/main/video_path1.mp4) in the repo.
+- **Path2**: A circular path. Path [images](https://github.com/RemanDey/line-following-robot/blob/main/path2.png) and the motion of the device (simulated in webots) is [there](https://github.com/RemanDey/line-following-robot/blob/main/video_path2.mp4) in the repo.
 
 ---
 ## Future Improvements
